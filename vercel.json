@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "/api/$1"
     }
-  ],
-  "env": {
-    "JWT_SECRET": "@quicktop-jwt-secret"
-  }
+  ]
 }
